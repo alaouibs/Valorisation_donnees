@@ -8,3 +8,5 @@ hist(data$Market.Cap)
 
 names_coins=unique(data$coin)
 nbr_coins=length(names)
+#1370 type de cryptomonnaies le pie chart est immontrable, y a un moyen de filtrer pour garder que les grosses
+# cryptomonnaies stype bitcoin ether ?
